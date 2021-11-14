@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Projects/Madad/admin/src/main/res/drawable/edittext.xml" value="0.23425925925925925" />
+        <entry key="..\:/Android Projects/Madad/admin/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.225" />
+        <entry key="..\:/Android Projects/Madad/admin/src/main/res/drawable/loginbutton.xml" value="0.23425925925925925" />
+        <entry key="..\:/Android Projects/Madad/admin/src/main/res/drawable/logininput.xml" value="0.23425925925925925" />
+        <entry key="..\:/Android Projects/Madad/admin/src/main/res/layout/activity_ambulance.xml" value="0.223731884057971" />
+        <entry key="..\:/Android Projects/Madad/admin/src/main/res/layout/activity_bed.xml" value="0.2341485507246377" />
+        <entry key="..\:/Android Projects/Madad/admin/src/main/res/layout/activity_bgroup.xml" value="0.223731884057971" />
+        <entry key="..\:/Android Projects/Madad/admin/src/main/res/layout/activity_find__meadicine.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/Madad/admin/src/main/res/layout/activity_login_admin.xml" value="0.23777173913043478" />
+        <entry key="..\:/Android Projects/Madad/admin/src/main/res/layout/activity_main.xml" value="0.223731884057971" />
+        <entry key="..\:/Android Projects/Madad/admin/src/main/res/layout/activity_meals_.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/Madad/admin/src/main/res/layout/activity_online__doctor.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/Madad/admin/src/main/res/layout/activity_oxygen.xml" value="0.2341485507246377" />
+        <entry key="..\:/Android Projects/Madad/admin/src/main/res/layout/adminnavheader.xml" value="0.223731884057971" />
+        <entry key="..\:/Android Projects/Madad/admin/src/main/res/layout/buylayout.xml" value="0.223731884057971" />
+        <entry key="..\:/Android Projects/Madad/admin/src/main/res/layout/grouplayout.xml" value="0.223731884057971" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/drawable/splashback.xml" value="0.2890625" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/activity_about.xml" value="0.18478260869565216" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/activity_ambulance.xml" value="0.1" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/activity_blood_donation.xml" value="0.2" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/activity_donation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/activity_find__medicine.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/activity_for_bed.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/activity_mobile_profile.xml" value="0.1721014492753623" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/activity_number.xml" value="0.1721014492753623" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/activity_otp.xml" value="0.1721014492753623" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/activity_share.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/activity_splash.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/buylayout.xml" value="0.1721014492753623" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/fragment_covid_bed.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/fragment_meals_deivery.xml" value="0.1721014492753623" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/fragment_non_i_c_u.xml" value="0.1721014492753623" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/fragment_online_doctor.xml" value="0.1721014492753623" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/fragment_oxygen_cylender.xml" value="0.1911231884057971" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/getlayout.xml" value="0.18704710144927536" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/navheader.xml" value="0.264" />
+        <entry key="..\:/Android Projects/Madad/app/src/main/res/layout/productlayout.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

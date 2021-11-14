@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pocket Hospital</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="covizone">Madad</string>
+    <string name="meals_delivery">Meals Delivery</string>
+    <string name="find_medicine">Find Medicine</string>
+    <string name="oxygen_cylinder">Oxygen cylinder</string>
+    <string name="todo">TODO</string>
+    <string name="online_doctor">Online Doctor</string>
+    <string name="madad">Pocket Hopital</string>
+
+    <string name="non_covid_bed">Non Covid Bed</string>
+
+    <string name="covid_bed">Covid Bed</string>
+</resources>

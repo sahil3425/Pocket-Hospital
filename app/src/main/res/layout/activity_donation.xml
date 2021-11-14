@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/mainbackground"
+    tools:context="com.example.pockethospital.donationActivity">
+
+    <EditText
+        android:id="@+id/amount_Donate"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="264dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="92dp"
+        android:ems="10"
+        android:inputType="number"
+        android:hint="₹ xxxx"
+        android:textStyle="bold"
+        android:textColor="#373737"
+        app:layout_constraintBottom_toTopOf="@+id/button3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginStart="75dp"
+        android:layout_marginEnd="75dp"
+        android:background="@drawable/login2"
+        android:textStyle="bold"
+        android:onClick="Donate"
+        android:text="Donate"
+        android:textColor="#FFFFFF" />
+</LinearLayout>

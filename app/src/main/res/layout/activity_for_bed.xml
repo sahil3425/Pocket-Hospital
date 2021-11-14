@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.pockethospital.allFragments.ForBed"
+    android:padding="10dp"
+    android:orientation="vertical">
+    <androidx.gridlayout.widget.GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        app:rowCount="2"
+        app:columnCount="2"
+
+        >
+
+        <Button
+            android:id="@+id/covid"
+            android:layout_margin="2dp"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:background="#FFF9F9"
+            android:onClick="ClickCovid"
+            android:text="ICU"
+            android:textSize="20sp"
+            app:layout_column="0"
+            app:layout_row="1"></Button>
+
+        <Button
+            android:id="@+id/noncovid"
+            android:layout_width="200dp"
+            android:layout_margin="2dp"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:onClick="NonClickCovid"
+            android:text="Non ICU"
+            android:textSize="20sp"
+            app:layout_column="1"
+            app:layout_row="1"></Button>
+
+        <View
+            android:id="@+id/Cdivider1"
+            android:layout_width="200dp"
+            android:layout_height="2dp"
+            android:layout_margin="2dp"
+            android:background="@color/mainbackground"
+            android:backgroundTint="@color/mainbackground"
+            android:visibility="invisible"
+            app:layout_column="0"
+            app:layout_row="0" />
+
+        <View
+            android:id="@+id/Ndivider2"
+            android:layout_width="200dp"
+            android:layout_height="2dp"
+            android:layout_margin="2dp"
+            android:background="@color/mainbackground"
+            android:backgroundTint="@color/mainbackground"
+            android:visibility="invisible"
+            app:layout_column="1"
+            app:layout_row="0" />
+    </androidx.gridlayout.widget.GridLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fragmentshow"
+        android:orientation="horizontal"></LinearLayout>
+
+
+
+</LinearLayout>
